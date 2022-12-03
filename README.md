@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Cryptolord100
 - 👀 I’m interested in making people Buy RealFake bitcoin transaction Tools
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently selling the latest version of the software...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail:Cryptolordtech@gmail.com
-WhatsApp Admin: +48 573 503 435
+-   WhatsApp Admin: +48 573 503 435
+-   https://t.me/Cryptolordtech
 
 <!---
 Cryptolord100/Cryptolord100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
